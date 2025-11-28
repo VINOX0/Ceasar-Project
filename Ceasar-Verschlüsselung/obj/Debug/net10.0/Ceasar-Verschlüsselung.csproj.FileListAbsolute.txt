@@ -1,0 +1,28 @@
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.exe
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.deps.json
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.runtimeconfig.json
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.dll
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.pdb
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.AssemblyInfoInputs.cache
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.AssemblyInfo.cs
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.csproj.CoreCompileInputs.cache
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.dll
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\refint\Ceasar-Verschlüsselung.dll
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.pdb
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.genruntimeconfig.cache
+C:\Users\vinny\source\repos\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\ref\Ceasar-Verschlüsselung.dll
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.AssemblyInfoInputs.cache
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.AssemblyInfo.cs
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.csproj.CoreCompileInputs.cache
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.dll
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\refint\Ceasar-Verschlüsselung.dll
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.pdb
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.exe
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.deps.json
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.runtimeconfig.json
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.dll
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\bin\Debug\net10.0\Ceasar-Verschlüsselung.pdb
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\Ceasar-Verschlüsselung.genruntimeconfig.cache
+C:\Users\vinny\OneDrive - BBBaden\Ceasar-Verschlüsselung\Ceasar-Verschlüsselung\obj\Debug\net10.0\ref\Ceasar-Verschlüsselung.dll
